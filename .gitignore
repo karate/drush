@@ -13,3 +13,5 @@ sut/*
 !sut/drush
 /sandbox/
 .env
+# Test fixtures
+sut/drush/sites/synctest.site.yml
